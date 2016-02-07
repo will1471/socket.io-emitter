@@ -1,6 +1,6 @@
 # Tests
 
-'''
+```
 curl -sS https://getcomposer.org/installer | php
 php composer.phar install
 vagrant up
@@ -11,5 +11,5 @@ cd /vagrant/test/node
 npm install
 cd /vagrant
 ./vendor/bin/phpunit --bootstrap ./vendor/autoload.php ./tests/
-'''
+```
 
