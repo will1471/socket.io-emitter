@@ -1,0 +1,6 @@
+.vagrant/
+nbproject/
+vendor/
+tests/node/node_modules/
+composer.lock
+composer.phar
